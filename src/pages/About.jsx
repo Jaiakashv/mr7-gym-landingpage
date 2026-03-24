@@ -158,7 +158,7 @@ const About = () => {
             <div className="md:col-span-2 grid grid-cols-2 gap-4">
               <div className="col-span-2 relative group overflow-hidden rounded-xl h-[400px]">
                 <div className="absolute inset-0 bg-black/40 group-hover:bg-black/20 transition-colors z-10" />
-                <img src="https://images.unsplash.com/photo-1540497077202-7c8a3999166f?ixlib=rb-4.0.3&auto=format&fit=crop&w=1600&q=80" alt="Gallery Main" className="absolute inset-0 w-full h-full object-cover group-hover:scale-105 transition-transform duration-700" />
+                <img src="https://lh3.googleusercontent.com/p/AF1QipP6NKToyu9NSQZQC2_UkmJUmu91_Pnxkwko7Jf2=s1360-w1360-h1020-rw" alt="Gallery Main" className="absolute inset-0 w-full h-full object-cover group-hover:scale-105 transition-transform duration-700" />
                 <div className="absolute bottom-6 left-6 z-20">
                   <p className="text-white/80 text-xs font-bold mb-1">Workout Area</p>
                   <p className="text-white font-black text-lg tracking-wider">MR7 FITNESS</p>
@@ -166,7 +166,7 @@ const About = () => {
               </div>
               <div className="relative group overflow-hidden rounded-xl h-[250px]">
                 <div className="absolute inset-0 bg-black/40 group-hover:bg-black/20 transition-colors z-10" />
-                <img src="https://images.unsplash.com/photo-1534438327276-14e5300c3a48?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80" alt="Gallery 2" className="absolute inset-0 w-full h-full object-cover group-hover:scale-105 transition-transform duration-700" />
+                <img src="https://lh3.googleusercontent.com/gps-cs-s/AHVAweor-gBqv5kWyynvNZVUw8Kmoi5RwElUbAiQn_e2xufgr6KFLo4qYV7X3U-YlfnxFacqlz9e5IHVD69KCv2KNn9PPluRv6CWQD3fBSVafPdSwq3UFnQHnWKOC1vZcBYkFmfcf9jQnQ=s1360-w1360-h1020-rw" alt="Gallery 2" className="absolute inset-0 w-full h-full object-cover group-hover:scale-105 transition-transform duration-700" />
                 <div className="absolute bottom-6 left-6 z-20">
                   <p className="text-white/80 text-xs font-bold mb-1">Equipment</p>
                   <p className="text-white font-black text-lg tracking-wider">MR7 FITNESS</p>
@@ -174,7 +174,7 @@ const About = () => {
               </div>
               <div className="relative group overflow-hidden rounded-xl h-[250px]">
                 <div className="absolute inset-0 bg-black/40 group-hover:bg-black/20 transition-colors z-10" />
-                <img src="https://images.unsplash.com/photo-1571019614242-c5c5dee9f50b?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80" alt="Gallery 3" className="absolute inset-0 w-full h-full object-cover group-hover:scale-105 transition-transform duration-700" />
+                <img src="https://lh3.googleusercontent.com/p/AF1QipNc725AUEObFz0IdTq58MYPWF6vn3NWmizh9crf=s1360-w1360-h1020-rw" alt="Gallery 3" className="absolute inset-0 w-full h-full object-cover group-hover:scale-105 transition-transform duration-700" />
                 <div className="absolute bottom-6 left-6 z-20">
                   <p className="text-white/80 text-xs font-bold mb-1">Weights</p>
                   <p className="text-white font-black text-lg tracking-wider">MR7 FITNESS</p>
@@ -184,7 +184,7 @@ const About = () => {
             <div className="grid grid-cols-1 gap-4">
               <div className="relative group overflow-hidden rounded-xl h-[250px]">
                 <div className="absolute inset-0 bg-black/40 group-hover:bg-black/20 transition-colors z-10" />
-                <img src="https://images.unsplash.com/photo-1581009146145-b5ef050c2e1e?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80" alt="Gallery 4" className="absolute inset-0 w-full h-full object-cover group-hover:scale-105 transition-transform duration-700" />
+                <img src="https://lh3.googleusercontent.com/p/AF1QipOPrmVrywH96gbpwZpntS7TBo_aazmIgLYPA010=s1360-w1360-h1020-rw" alt="Gallery 4" className="absolute inset-0 w-full h-full object-cover group-hover:scale-105 transition-transform duration-700" />
                 <div className="absolute bottom-6 left-6 z-20">
                   <p className="text-white/80 text-xs font-bold mb-1">Cardio</p>
                   <p className="text-white font-black text-lg tracking-wider">MR7 FITNESS</p>
@@ -192,7 +192,7 @@ const About = () => {
               </div>
                <div className="relative group overflow-hidden rounded-xl h-[400px]">
                 <div className="absolute inset-0 bg-black/40 group-hover:bg-black/20 transition-colors z-10" />
-                <img src="https://images.unsplash.com/photo-1596356453261-0d268ea02d4b?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80" alt="Gallery 5" className="absolute inset-0 w-full h-full object-cover group-hover:scale-105 transition-transform duration-700" />
+                <img src="https://lh3.googleusercontent.com/p/AF1QipOF6dl3w2M8xfIJdKkwZYDdGchmNKnl6Jp_e6p0=s1360-w1360-h1020-rw" alt="Gallery 5" className="absolute inset-0 w-full h-full object-cover group-hover:scale-105 transition-transform duration-700" />
                 <div className="absolute bottom-6 left-6 z-20">
                   <p className="text-white/80 text-xs font-bold mb-1">Studio</p>
                   <p className="text-white font-black text-lg tracking-wider">MR7 FITNESS</p>
