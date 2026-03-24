@@ -127,9 +127,8 @@ const Home = () => {
               { tag: 'Weightlifting', img: 'https://images.unsplash.com/photo-1517836357463-d25dfeac3438?q=80&w=1470&auto=format&fit=crop' },
               { tag: 'Bodybuilding', img: 'https://images.unsplash.com/photo-1549060279-7e168fcee0c2?q=80&w=1470&auto=format&fit=crop' },
               { tag: 'Cardio', img: 'https://images.unsplash.com/photo-1538805060514-97d9cc17730c?q=80&w=1470&auto=format&fit=crop' },
-              { tag: 'Boxing', img: 'https://images.unsplash.com/photo-1549719386-74dfcbf7dbed?q=80&w=1470&auto=format&fit=crop' },
               { tag: 'CrossFit', img: 'https://images.unsplash.com/photo-1541534741688-6078c6bfb5c5?q=80&w=1470&auto=format&fit=crop' },
-              { tag: 'Stretching', img: 'https://images.unsplash.com/photo-1552196564-9749719386-74dfcbf7dbed?q=80&w=1470&auto=format&fit=crop' },
+              { tag: 'Stretching', img: 'https://blog.nasm.org/hubfs/beginner-stretches.jpg' },
             ].map((workout, i) => (
               <div key={i} className="group relative h-96 rounded-3xl overflow-hidden cursor-pointer">
                 <img 
