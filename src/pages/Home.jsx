@@ -101,6 +101,18 @@ const Home = () => {
         </div>
       </section>
 
+      {/* About Us / SEO Section */}
+      <section className="py-24 bg-[#0b0c07] border-b border-white/5">
+        <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 text-center">
+          {/* <h2 className="text-4xl md:text-5xl font-black italic tracking-tighter uppercase mb-6">
+            ABOUT <span className="text-primary-gold">US</span>
+          </h2> */}
+          <p className="text-white/60 text-lg md:text-xl max-w-4xl mx-auto font-medium leading-relaxed">
+            Experience the <strong className="text-white font-semibold">best gym in Westmambalam</strong>. MR7 Fitness is proud to be the <strong className="text-white font-semibold">best uni sex gym in Westmambalam</strong> and the ultimate <strong className="text-white font-semibold">best fitness arena in Westmambalam</strong>. Achieve your goals with premium support at the <strong className="text-white font-semibold">cheaper gym in Westmambalam</strong>.
+          </p>
+        </div>
+      </section>
+
       {/* Brand Logos */}
       <section className="py-20 border-y border-white/5 bg-white/2 overflow-hidden">
         <div className="flex justify-center gap-12 md:gap-24 opacity-30 grayscale invert">
